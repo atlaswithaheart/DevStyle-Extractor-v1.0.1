@@ -36,7 +36,7 @@ Activate any of the inspection modes to view details simply by moving your mouse
 Since this extension is fully open-source and not hosted on the Chrome Web Store, you can easily load it into Chrome manually for free:
 
 1. Click the green **Code** button at the top right of this GitHub page.
-2. Click **Download ZIP** and extract the files to a folder on your computer.
+2. Click **Download ZIP** and extract the files to a folder on your computer. (You can also clone the repository if you want)
 3. Open Google Chrome (Or your preferred browser) and navigate to `chrome://extensions/`.
 4. Look in the top-right corner of the Extensions page and toggle **Developer mode** to **ON** (On different browsers it may appear in different positions e.g. bottom-right on Edge).
 5. Click the **Load unpacked** button in the top-left corner.
